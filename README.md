@@ -1,2 +1,0 @@
-# meadowlark
-Test learning project
