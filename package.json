@@ -1,0 +1,30 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "learning project",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvir-uits/meadowlark.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "js",
+    "meadowlark"
+  ],
+  "author": "tanvir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanvir-uits/meadowlark/issues"
+  },
+  "homepage": "https://github.com/tanvir-uits/meadowlark#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express3-handlebars": "^0.5.2"
+  }
+}
